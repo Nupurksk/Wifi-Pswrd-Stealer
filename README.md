@@ -44,14 +44,3 @@ python setup.py build
 ## CHANGING THE SIGNATURE AND ENCRYPTION
 
 Every time you run "setup.py", Signature will change and If you want encrypt the Informations.txt (Wifi Password) using the "Encrypt-Decrypt.py" for better security.
-
-
-## Another Projects : 
-
-•**AMAZING KEYLOGGER** : https://github.com/aydinnyunus/Keylogger
-
-•**WHATSAPP BOT** : https://github.com/aydinnyunus/WhatsappBOT
-
-•**MACHINE LEARNING** : https://github.com/aydinnyunus/Machine-Learning
-
-•**FACE RECOGNITION SECURITY** : https://github.com/aydinnyunus/FaceRecognitionSecurity
